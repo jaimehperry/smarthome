@@ -4,16 +4,16 @@ VS Code extension to access Samsung Smarthings Rest API.
 
 ## Features
  - Control Shift D - brings up list of dimmable lights
- <img src="https://github.com/jaimehperry/smarthome.git/img/dimmable_sw.png">
+ <img src="img/dimmable_sw.png">
 
  - Select a dimmable switch and be prompted for Brightness level 0-100%
-<img src="https://github.com/jaimehperry/smarthome.git/img/brighness.png">
+<img src="img/brighness.png">
 
   - Control Shift H - brings up a list of Devices that can be toggled on/off
     (If Device is a TV channel then TV/Cable Box/Stero are toggled on, switched to
     appropriate input and channel)
 
-<img src="https://github.com/jaimehperry/smarthome.git/img/toggle_sw.png">
+<img src="img/toggle_sw.png">
 
 
 ## Requirements
