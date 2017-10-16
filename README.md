@@ -1,6 +1,6 @@
 # smarthome README
 
-VS Code extension Samsung Smarthings Rest API.
+VS Code extension to access Samsung Smarthings Rest API.
 
 ## Features
  - Control Shift D - brings up list of dimmable lights
