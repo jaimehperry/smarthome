@@ -7,7 +7,7 @@ VS Code extension to access Samsung Smarthings Rest API.
  <img src="img/dimmable_sw.png">
 
  - Select a dimmable switch and be prompted for Brightness level 0-100%
-<img src="img/brighness.png">
+<img src="img/brightness.png">
 
   - Control Shift H - brings up a list of Devices that can be toggled on/off
     (If Device is a TV channel then TV/Cable Box/Stero are toggled on, switched to
